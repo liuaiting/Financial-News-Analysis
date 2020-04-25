@@ -1,0 +1,7 @@
+gensim==3.4.0
+jieba==0.39
+numpy==1.14.2
+simhash==1.9.0
+PyNLPIR==0.5.2
+sklearn==0.0
+thulac==0.1.2
