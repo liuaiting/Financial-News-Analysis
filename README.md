@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 ### simhash
 
-<center style="padding: 40px"><img width="70%" src=http://7viirv.com1.z0.glb.clouddn.com/simhash.jpg /></center>
+<center style="padding: 40px"><img width="70%" src=fig/fig1.png /></center>
 
 1. 过滤清洗，提取n个特征关键词
 2. 特征加权，tf-idf
